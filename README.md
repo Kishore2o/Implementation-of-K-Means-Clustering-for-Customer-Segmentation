@@ -57,17 +57,17 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-## :
+## data.head() function :
 ![image](https://github.com/Kishore2o/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679883/515c2fcf-42a1-41ad-a775-dce8422c55e4)
-## :
+## data.info()
 ![image](https://github.com/Kishore2o/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679883/a1b2ece3-e688-4814-835c-cb56a06737e8)
-## :
+## data.isnull().sum() function
 ![image](https://github.com/Kishore2o/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679883/a52254d9-e8c0-4344-82f0-0104a118ab95)
-## :
+## Elbow method Graph
 ![image](https://github.com/Kishore2o/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679883/ae7413ef-e47d-4a53-82c7-eaa3732437a7)
-## :
+##  KMeans clusters
 ![image](https://github.com/Kishore2o/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679883/ebb6a58c-66cb-4d3a-a137-8e66edf9374f)
-## :
+## Customer segments Graph
 ![image](https://github.com/Kishore2o/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679883/0f438e41-bf92-4f0a-b8de-fa13e35b67cc)
 
 
